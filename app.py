@@ -1,3 +1,5 @@
 print('Hello Git')
 print('This is a feature branch')
 print('Update from local machine')
+name = input('Enter your name:')
+print(f'Hello {name}')
