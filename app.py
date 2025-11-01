@@ -7,3 +7,4 @@ print('reupdate for pull with feature branch')
 print ('recheck pull remote request')
 # New feature implementation
 print ('New feature implementation')
+# new line
