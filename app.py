@@ -1,2 +1,3 @@
 print('Hello Git')
 print('Updated main branch line')
+print('Conflict branch line')
