@@ -1,6 +1,3 @@
 print('Hello Git')
 print('Updated main branch line')
 print('Conflict branch line')
-print('Updated main branch line')
-print('Conflict branch line')
-print('Feature branch change - version 2')
