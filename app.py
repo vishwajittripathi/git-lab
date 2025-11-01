@@ -8,4 +8,6 @@ print ('recheck pull remote request')
 # New feature implementation
 print ('New feature implementation')
 # new line
+# line 11
+# line 12
 print('Main branch change - version 1')
