@@ -1,2 +1,2 @@
 print('Hello Git')
-print("Conflict Line")
+print("CHANGE FROM BRANCH A")
